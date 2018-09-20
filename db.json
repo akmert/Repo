@@ -1,5 +1,37 @@
-[{"id":1,"sifre":"GuEW2Wb5q","statu":"pede","isim":"Maure","girisTarihi":"09/06/2018"},
-{"id":2,"sifre":"GuI6BT1HFojy","statu":"donec dapibus duis","isim":"Pier","girisTarihi":"11/10/2017"},
-{"id":3,"sifre":"GYIkpn2OOk","statu":"dolor","isim":"Ruperto","girisTarihi":"02/01/2018"},
-{"id":4,"sifre":"Lx98sWiPd","statu":"in imperdiet et","isim":"Aymer","girisTarihi":"04/11/2017"},
-{"id":5,"sifre":"Tp2rKs9zexWn","statu":"turpis donec","isim":"Phil","girisTarihi":"12/03/2018"}]
+[
+  {
+    "id": 1,
+    "sifre": "GuEW2Wb5q",
+    "statu": "hasta",
+    "isim": "Maure",
+    "girisTarihi": "09/06/2018"
+  },
+  {
+    "id": 2,
+    "sifre": "GuI6BT1HFojy",
+    "statu": "hemşire",
+    "isim": "Pier",
+    "girisTarihi": "11/10/2017"
+  },
+  {
+    "id": 3,
+    "sifre": "GYIkpn2OOk",
+    "statu": "doktor",
+    "isim": "Ruperto",
+    "girisTarihi": "02/01/2018"
+  },
+  {
+    "id": 4,
+    "sifre": "Lx98sWiPd",
+    "statu": "yönetici doktor",
+    "isim": "Aymer",
+    "girisTarihi": "04/11/2017"
+  },
+  {
+    "id": 5,
+    "sifre": "Tp2rKs9zexWn",
+    "statu": "admin",
+    "isim": "Phil",
+    "girisTarihi": "12/03/2018"
+  }
+]
